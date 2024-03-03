@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: futura;
+}
+
+h3 {
+    text-align: center;
+    padding: 20px 0 0;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.qr-text{
+    margin-left: 40%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.qr-container{
+    margin-left: 30%;
+}
+
+.generate-qr-code-btn{
+    margin-left: 40%;
+    margin-top: 20px;
+}
