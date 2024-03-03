@@ -25,6 +25,8 @@ const content=document.querySelector(".content");
 
 console.log(content);
 
+
+//this is function required new QRCode(container postion ,{all property here}) 
 function generateQrCode(){
     qrContainer.innerHTML="";
     new QRCode (qrContainer,{
